@@ -1,30 +1,75 @@
-# PaulArmstrong.dev [![Netlify Status](https://api.netlify.com/api/v1/badges/40d2f705-c2c2-47a5-b3c9-ce6772a29847/deploy-status)](https://app.netlify.com/sites/paularmstrongdev/deploys)
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# paularmstrong.dev
 
-Oh hey! I’m [Paul Armstrong](https://paularmstrong.dev/about) and this is my website. Trying to figure out how this all works? Well here’s the high level:
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/paularmstrong.dev)
 
-- Built on [Astro](https://astro.build)
-- Super minimal amount of Solid-js for dark/light/auto theme switching
-- Markdown and MDX for content
-- Github actions for lint, formatting, and type checks
-- Netlify for deploying
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-## Good stuff to know
+## Architecture
 
-| Command                         | What                              |
-| ------------------------------- | --------------------------------- |
-| `yarn start` (alias `yarn dev`) | Run the dev server                |
-| `yarn build`                    | Build for production deploy       |
-| `yarn preview`                  | Preview the production built site |
-| `yarn format`                   | Format code                       |
-| `yarn lint`                     | Lint code                         |
-| `yarn tsc`                      | Type check                        |
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-## PR Etiquette
+## Install
 
-### I found a typo or grammatical error, should I open a PR?
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-Yes! Absolutely!. We all make mistakes – especially me. Your help is greatly appreciated.
+```bash
+git clone https://github.com/Interested-Deving-1896/paularmstrong.dev.git
+cd paularmstrong.dev
+```
 
-### I think you’re wrong, should I open a PR?
+## Usage
 
-Probably not. It’s great that you disagree, but I probably don’t have the time to argue.
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/paularmstrong.dev`](https://github.com/Interested-Deving-1896/paularmstrong.dev) and mirrored through:
+
+```
+Interested-Deving-1896/paularmstrong.dev  ──►  OpenOS-Project-OSP/paularmstrong.dev  ──►  OpenOS-Project-Ecosystem-OOC/paularmstrong.dev
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+<!-- License not detected — add a LICENSE file to this repo. -->
+<!-- AI:end:license -->
